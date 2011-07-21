@@ -20,7 +20,7 @@ end
 Rails::Initializer.run do |config|
   # Settings in config/environments/* take precedence those specified here
   
-  config.action_controller.session = {:key => 'projects_pri_session', :secret =>"7b3272ea3b93209a9bff9d2d3ddb949bb4b8863efbc8b734f3e8ed41e341a6c543e4a410de9ad4d4dedeffddde30a163a463cdbffe8ceac6df68af9f51d79ce6"}
+  config.action_controller.session = {:key => 'projects_pri_session', :secret =>"3ba74793af686a032b4ae1e39ceb295e2efd3463973c7db82c2fd3e937bce0a632602f97c968b11eb7cc0a280ce865f3e23b7bae791a7ee7bc9ffa0e53b659a9"}
   # Skip frameworks you're not going to use
   # config.frameworks -= [ :action_web_service, :action_mailer ]
 
